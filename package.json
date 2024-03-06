@@ -1,0 +1,33 @@
+{
+  "name": "number-app",
+  "version": "1.0.0",
+  "description": "Prime number app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denyyysss/number-app.git"
+  },
+  "dependencies": {
+    "richy13-app": "1.0.0",
+    "tea_belfort717": "1.0.0",
+    "app-rand": "1.0.0",
+    "benfizr-teapp": "1.0.0",
+    "tea_genius": "1.0.0",
+    "tea-enthusiast": "1.0.0",
+    "math-app": "1.0.0",
+    "tea717app": "1.0.0",
+    "fizrapp": "1.0.0",
+    "sunny783app": "1.0.0",
+    "caraap": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denyyysss/number-app/issues"
+  },
+  "homepage": "https://github.com/denyyysss/number-app#readme"
+}
